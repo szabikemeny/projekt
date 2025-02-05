@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap');
+
+body {
+    font-family: "Teko", serif;
+    margin: 10px 5px 10px 5px;
+    background-image: linear-gradient(rgba(72, 70, 168, 0.5), rgba(19, 18, 18, 0.5), rgba(59, 40, 32, 0.5));
+    line-height: 1.5;
+    text-align: justify;
+
+}
+
+#cím {
+    text-align: center;
+}
+
+
+h3 {
+    text-align: center;
+}
+
+#nav {
+    text-align: center;
+    position: fixed;
+}
+
+nav a {
+    text-decoration: none;
+    text-align: center;
+}
+
+#visszagomb {
+    text-decoration: none;
+}
+
+#cimdoboz {
+    position: fixed;
+    margin-left: 10px;
+}
+
+img {
+    margin: 15px;
+    max-width: 100%;
+    max-height: fit-content;
+    display: block;
+    height: auto;
+}
+p{
+    border: 2px solid black;
+    margin: 15px;
+    padding: 5px;
+    background-color: rgba(72, 148, 219, 0.1);
+}
+#bgkep1, #bgkep2, #background, #color, #padding1, #width, #box, #link {
+    width: fit-content;
+}
+
+
